@@ -1,0 +1,30 @@
+C:\Users\tosch\source\repos\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\tosch\source\repos\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\tosch\source\repos\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\tosch\source\repos\Encoder\Encoder\obj\Debug\Encoder.pdb
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\tosch\OneDrive\Рабочий стол\Encoder\Encoder\obj\Debug\Encoder.pdb
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.exe
+D:\Петелин\Encoder\Encoder\obj\Debug\Encoder.pdb
+D:\Петелин\Encoder\Encoder\bin\Debug\Encoder.exe.config
+D:\Петелин\Encoder\Encoder\bin\Debug\Encoder.exe
+D:\Петелин\Encoder\Encoder\bin\Debug\Encoder.pdb

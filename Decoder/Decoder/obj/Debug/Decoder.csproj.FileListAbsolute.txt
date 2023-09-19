@@ -1,0 +1,10 @@
+D:\Петелин\Decoder\Decoder\bin\Debug\Decoder.exe.config
+D:\Петелин\Decoder\Decoder\bin\Debug\Decoder.exe
+D:\Петелин\Decoder\Decoder\bin\Debug\Decoder.pdb
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.csproj.AssemblyReference.cache
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.Form1.resources
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.Properties.Resources.resources
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.csproj.GenerateResource.cache
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.csproj.CoreCompileInputs.cache
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.exe
+D:\Петелин\Decoder\Decoder\obj\Debug\Decoder.pdb
